@@ -21,7 +21,7 @@
 </template>
 
 <script>
-    import io from '../socket';
+    import io from '../../socket';
 
     export default {
         data() {
